@@ -5,3 +5,13 @@ table {
 mat-toolbar{
   margin-top: 2.2rem;
 }
+
+.loading-spinner{
+
+  background-color: rgba(0, 0, 0, 0.15);
+  padding: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
