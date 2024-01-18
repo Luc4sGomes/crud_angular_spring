@@ -1,0 +1,12 @@
+.keep-messagePopUp{
+  height: 124px;
+  width: 248px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column wrap;
+}
+
+button {
+  margin-top: 12px;
+}
