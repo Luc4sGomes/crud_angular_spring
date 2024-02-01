@@ -7,8 +7,7 @@ mat-toolbar{
 }
 
 .loading-spinner{
-
-  background-color: rgba(0, 0, 0, 0.15);
+  background-color: rgb(243, 243, 243);
   padding: 24px;
   display: flex;
   align-items: center;
